@@ -1,0 +1,33 @@
+.textField {
+  margin-top: 5%;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+}
+.currencyBox {
+  width: 30%;
+  margin-left: 1em;
+}
+.amountBox {
+  width: 70%;
+}
+.addIcon{
+  color: 'white';
+}
+.fab{
+  display:flex;
+  justify-content: flex-end;
+}
+.MuiPopover-paper{
+  display: flex;
+  justify-content: center;
+  width: 6%;
+}
